@@ -135,7 +135,7 @@ void draw(){
   fill(80);
   triangle(526,364,568,250,578,364);
   stroke(1);
-  //CRISTO REY
+  //CRISTO 
   fill(200);
   //torso y brazos
   quad(590,90,607,90,602,116,593,116);  
